@@ -1,0 +1,48 @@
+[{
+	"productId": "1",
+	"productName": "Silk Saree Kanchepuram",
+	"description" : "Pure Silk saree",
+	"img": [{
+			"id": "1",
+			"path": "/assets/img/saree1.jpg"
+		},
+		{
+			"id": "2",
+			"path": "/assets/img/saree3.JPG"
+		}
+	],
+	"price": "1200",
+	"discount": "200"
+},
+{
+	"productId": "2",
+	"productName": "Silk Saree Kanchepuram",
+	"description" : "Pure Silk saree",
+	"img": [{
+			"id": "3",
+			"path": "/assets/img/saree1.jpg"
+		},
+		{
+			"id": "4",
+			"path": "/assets/img/saree3.JPG"
+		}
+	],
+	"price": "1800",
+	"discount": "200"
+},
+{
+	"productId": "3",
+	"productName": "Silk Saree Kanchepuram",
+	"description" : "Pure Silk saree",
+	"img": [{
+			"id": "5",
+			"path": "/assets/img/saree1.jpg"
+		},
+		{
+			"id": "6",
+			"path": "/assets/img/saree3.JPG"
+		}
+	],
+	"price": "1600",
+	"discount": "200"
+}]

@@ -1,0 +1,154 @@
+[{
+	"productId": "1",
+	"tag":"saree",
+	"productName": "Silk Saree Kanchepuram",
+	"description" : "Pure Silk saree",
+	"img": [{
+			"id": "1",
+			"path": "/assets/img/saree1.jpg"
+		},
+		{
+			"id": "2",
+			"path": "/assets/img/saree3.JPG"
+		}
+	],
+	"price": "1200",
+	"discount": "200"
+},
+{
+	"productId": "2",
+	"tag":"saree",
+	"productName": "Silk Saree Kanchepuram",
+	"description" : "Pure Silk saree",
+	"img": [{
+			"id": "3",
+			"path": "/assets/img/saree3.JPG"
+		},
+		{
+			"id": "4",
+			"path": "/assets/img/saree3.JPG"
+		}
+	],
+	"price": "1800",
+	"discount": "200"
+},
+{
+	"productId": "3",
+	"tag":"saree",
+	"productName": "Silk Saree Kanchepuram",
+	"description" : "Pure Silk saree",
+	"img": [{
+			"id": "5",
+			"path": "/assets/img/saree1.jpg"
+		},
+		{
+			"id": "6",
+			"path": "/assets/img/saree3.JPG"
+		}
+	],
+	"price": "1600",
+	"discount": "200"
+},
+{
+	"productId": "4",
+	"tag":"mobile",
+	"productName": "Mobile 1",
+	"description" : "Samsung Mobile",
+	"img": [{
+			"id": "7",
+			"path": "/assets/img/mobile1.jpeg"
+		},
+		{
+			"id": "8",
+			"path": "/assets/img/mobile1.jpeg"
+		}
+	],
+	"price": "1600",
+	"discount": "200"
+},
+{
+	"productId": "5",
+	"tag":"mobile",
+	"productName": "Mobile 2",
+	"description" : "Orange Mobile",
+	"img": [{
+			"id": "9",
+			"path": "/assets/img/mobile2.jpg"
+		},
+		{
+			"id": "10",
+			"path": "/assets/img/mobile2.jpg"
+		}
+	],
+	"price": "1600",
+	"discount": "200"
+},
+{
+	"productId": "6",
+	"tag":"shoe",
+	"productName": "Shoe 1",
+	"description" : "Super Sports Shoe",
+	"img": [{
+			"id": "11",
+			"path": "/assets/img/shoe2.jpg"
+		},
+		{
+			"id": "12",
+			"path": "/assets/img/shoe2.jpg"
+		}
+	],
+	"price": "1600",
+	"discount": "200"
+},
+{
+	"productId": "7",
+	"tag":"shoe",
+	"productName": "Shoe 2",
+	"description" : "Super Sports Shoe 2",
+	"img": [{
+			"id": "13",
+			"path": "/assets/img/shoe3.jpg"
+		},
+		{
+			"id": "14",
+			"path": "/assets/img/shoe3.jpg"
+		}
+	],
+	"price": "1600",
+	"discount": "200"
+},
+{
+	"productId": "8",
+	"tag":"laptop",
+	"productName": "Laptop 1",
+	"description" : "Intel 2 Laptop",
+	"img": [{
+			"id": "14",
+			"path": "/assets/img/lap1.jpg"
+		},
+		{
+			"id": "15",
+			"path": "/assets/img/lap1.jpg"
+		}
+	],
+	"price": "12000",
+	"discount": "200"
+},
+{
+	"productId": "9",
+	"tag":"laptop",
+	"productName": "Laptop 2",
+	"description" : "Intel 5 Laptop",
+	"img": [{
+			"id": "16",
+			"path": "/assets/img/lap1.jpg"
+		},
+		{
+			"id": "17",
+			"path": "/assets/img/lap1.jpg"
+		}
+	],
+	"price": "16000",
+	"discount": "200"
+}
+]
