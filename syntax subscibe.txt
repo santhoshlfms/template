@@ -1,0 +1,8 @@
+this.service.getProducts().subscribe((data)=>{
+  		this.productList = data;
+  	});
+
+
+// error pls install this 
+
+npm install --save rxjs-compat
